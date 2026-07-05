@@ -12,8 +12,8 @@ This is the complete official website for **Somou Alresalah International School
 The project was commissioned by the school and delivered as a fully custom, deployment-ready website built entirely without frameworks or a CMS — pure HTML, CSS, and Vanilla JavaScript.
 
 **Built by:**
--  Niya — Lead Developer & Designer
-- [Pranauv Skandhan](https://github.com/pranauvskandhan) - Co-Developer & Designer
+-  Niya- Lead Developer & Designer
+- [Pranauv Skandhan](https://github.com/pranauvskandhan)- Co-Developer & Designer
 
 ---
 
